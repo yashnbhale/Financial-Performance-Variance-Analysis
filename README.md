@@ -1,7 +1,5 @@
-# Financial-Performance-Variance-Analysis-Dashboard
-
-☕ Financial Performance & Variance Analysis Dashboard
-
+# Financial-Performance-Variance-Analysis
+☕ Financial Performance & Variance Analysis 
 Interactive Tableau dashboard analyzing coffee shop financial performance by comparing Actual vs Forecast revenue, tracking variance trends, and identifying profit impact across categories.
 
 📊 Key Features
